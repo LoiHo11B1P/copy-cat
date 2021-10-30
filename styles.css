@@ -1,0 +1,42 @@
+* {
+    /* border: 1px solid gold; */
+}
+
+main section {
+    height: 40em;
+}
+
+#welcome-message {
+    margin: auto;
+    width: 50vw;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+#feature {
+    background-color: rgb(255, 251, 251);
+    text-align: center;
+}
+
+#feature img {
+    height: 24em;
+}
+
+#highlight {
+    text-align: center;
+    /* background-color: purple; */
+    background-image: linear-gradient(rgb(63, 52, 63), rgb(41, 12, 41)) ;
+    color: white;
+}
+.rose-color {
+    color: rgb(252, 145, 145);
+    font-size: 1.5em;
+}
+
+#highlight img{
+    height: 27em;
+}
+#computer {
+    background-color: rgb(255, 251, 251);
+    text-align: center;
+}
